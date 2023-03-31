@@ -1,11 +1,11 @@
 # MATLAB-codes-for-final-report
 #### MATLAB code files
-parameters.m
-trim_linmod.m
-control_design.m
+parameters.m<br>
+trim_linmod.m<br>
+control_design.m<br>
 
 #### Simulink model files
-Used in MATLAB code trim_linmod file: linearise_model2.mdl
-Nonlinear open plant: open_model.slx
-Continuous controller design: continuous_controller.slx
-Discrete controller design: discrete_controller.slx
+Used in MATLAB code trim_linmod file: linearise_model2.mdl<br>
+Nonlinear open plant: open_model.slx<br>
+Continuous controller design: continuous_controller.slx<br>
+Discrete controller design: discrete_controller.slx<br>
